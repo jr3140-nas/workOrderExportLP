@@ -69,6 +69,7 @@ ADDRESS_BOOK = [
     {"AddressBookNumber": "1058845", "Name": "YOUNG, JAMES EUGENE", "Craft Description": "LP RM Turns"},
     {"AddressBookNumber": "140581", "Name": "GAULT, KEVIN", "Craft Description": "LP RM Turns"},
     {"AddressBookNumber": "1164120", "Name": "DAVIDSON, JACOB CHRISTOPHER", "Craft Description": "LP FM Turns"},
+    {"AddressBookNumber": "1164111", "Name": "CARTER, GABRIEL CHAD", "Craft Description": "LP FM Turns"},
 ]
 
 # Mapping from work order type codes to descriptive names.
